@@ -1,0 +1,105 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.information{
+    display: flex;
+    margin: 50;
+    margin-bottom:100;
+    justify-content: center;
+}
+
+
+
+.profile-pic{
+    border-radius: 50%;
+    opacity: 85%;
+    padding-top: 60px;
+    
+}
+.name{
+  font-family: "Cairo Play", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+  padding-top: 15px;
+  padding-left: 50px;
+  font-size: 20px;
+}
+
+
+.myself{
+  font-family: "Cairo Play", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 90;
+  font-variation-settings:"slnt" 0;
+  color: aliceblue;
+    
+}
+
+.programmer{
+  font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: aqua;
+  font-size: 60;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+}
+
+/* .contact{
+  display: flex;
+  justify-content: start;
+  color: white;
+  
+  margin-bottom:0 ;
+  padding: 0;
+  font-weight: 500;
+} */
+.contact p{
+  margin-bottom: 0;
+  font-size: 40px;
+}
+
+
+.my-info{
+  font-size: 20px;
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.Hello-friends{
+  font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+    color: aqua;
+    font-size: 25px;
+}
+
+.about-me{
+  color: rgb(126, 126, 127);
+  font-size: 40px;
+}
